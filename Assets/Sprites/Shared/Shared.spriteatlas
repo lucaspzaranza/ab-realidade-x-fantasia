@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shared
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: d72e6b737e7274648a6dfe2b6d9587a3, type: 3}
+    - {fileID: 2800000, guid: 5bd13475ca9e88a4581924f096ec69d7, type: 3}
+    - {fileID: 2800000, guid: aedaad5e76b851f42accce1cdb4c4b17, type: 3}
+    - {fileID: 2800000, guid: 7db2a7a3e6c5a834fb45226532eed1aa, type: 3}
+    - {fileID: 2800000, guid: 178ca3eea3701bb4a9871430c4cfb506, type: 3}
+    - {fileID: 2800000, guid: b159b0e16b6beb6469ef4a354f2a530b, type: 3}
+    - {fileID: 2800000, guid: 29d7a1d3704f6364f920c5e9c584fe8a, type: 3}
+    - {fileID: 2800000, guid: eee7b107cdffea34687cfaeef73851bd, type: 3}
+    - {fileID: 2800000, guid: 0ed267e95e51e244fae1ffe8d3beecd8, type: 3}
+    - {fileID: 2800000, guid: a7e837221d542bc4a8a8b2e9dd561a28, type: 3}
+    - {fileID: 2800000, guid: 9eef7d860489f6d47999f301cb234420, type: 3}
+    - {fileID: 2800000, guid: 3234991eddbe73b4eb48d093e4898cb7, type: 3}
+    - {fileID: 2800000, guid: 6da9a4412977ade469c10f8996bf77cf, type: 3}
+    - {fileID: 2800000, guid: fbc1510872100b94a908db550908966b, type: 3}
+    - {fileID: 2800000, guid: 85be135414580cd41a410e0229c27855, type: 3}
+    - {fileID: 2800000, guid: ef70b0dd852c7da45ae8860b3b9e9310, type: 3}
+    - {fileID: 2800000, guid: 4b4a9c68fd3d6ac47ac9661b301c1478, type: 3}
+    - {fileID: 2800000, guid: 4ed8ed6a6cb837a438f748ad6f553313, type: 3}
+    - {fileID: 2800000, guid: a9e47e99372df6c4093be72be1fe0a9d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6da9a4412977ade469c10f8996bf77cf, type: 3}
+  - {fileID: 21300000, guid: b159b0e16b6beb6469ef4a354f2a530b, type: 3}
+  - {fileID: -1289757803245527624, guid: a7e837221d542bc4a8a8b2e9dd561a28, type: 3}
+  - {fileID: -7772545641981451957, guid: a7e837221d542bc4a8a8b2e9dd561a28, type: 3}
+  - {fileID: 21300000, guid: d72e6b737e7274648a6dfe2b6d9587a3, type: 3}
+  - {fileID: 21300000, guid: 7db2a7a3e6c5a834fb45226532eed1aa, type: 3}
+  - {fileID: 21300000, guid: 29d7a1d3704f6364f920c5e9c584fe8a, type: 3}
+  - {fileID: 21300000, guid: 85be135414580cd41a410e0229c27855, type: 3}
+  - {fileID: 21300000, guid: 5bd13475ca9e88a4581924f096ec69d7, type: 3}
+  - {fileID: 21300000, guid: 9eef7d860489f6d47999f301cb234420, type: 3}
+  - {fileID: 21300000, guid: eee7b107cdffea34687cfaeef73851bd, type: 3}
+  - {fileID: 21300000, guid: fbc1510872100b94a908db550908966b, type: 3}
+  - {fileID: 21300000, guid: 4b4a9c68fd3d6ac47ac9661b301c1478, type: 3}
+  - {fileID: 21300000, guid: a9e47e99372df6c4093be72be1fe0a9d, type: 3}
+  - {fileID: 21300000, guid: 0ed267e95e51e244fae1ffe8d3beecd8, type: 3}
+  - {fileID: 21300000, guid: 4ed8ed6a6cb837a438f748ad6f553313, type: 3}
+  - {fileID: 21300000, guid: ef70b0dd852c7da45ae8860b3b9e9310, type: 3}
+  - {fileID: 21300000, guid: 3234991eddbe73b4eb48d093e4898cb7, type: 3}
+  - {fileID: 21300000, guid: aedaad5e76b851f42accce1cdb4c4b17, type: 3}
+  - {fileID: 21300000, guid: 178ca3eea3701bb4a9871430c4cfb506, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - main menu btn
+  - CARTOLA
+  - fantasia x real btns_0
+  - fantasia x real btns_1
+  - "avan\xE7ar btn"
+  - "bot\xE3o Menu"
+  - CECILIA MEIRELES
+  - Restart
+  - badge
+  - left arrow
+  - choose theme btn
+  - play btn
+  - SPIDER MAN
+  - white img
+  - curupira
+  - start btn
+  - right arrow
+  - let's go
+  - board
+  - btn fechar
+  m_RenderDataMap: {}
+  m_Tag: Shared
+  m_IsVariant: 0
